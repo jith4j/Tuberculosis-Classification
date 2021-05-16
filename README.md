@@ -1,1 +1,2 @@
-Heyy.
+## LUNG X-RAY IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK
+A project by <i> Jith James Fernandez </i>
