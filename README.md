@@ -14,6 +14,11 @@
 
 A CNN model that can classify X-Ray images as a <b>Tuberculosis case or a Normal case</b>.
 
+# Website
+[Complete Website]() <br>
+[Stremlit Website](https://share.streamlit.io/jith4j/tuberculosis-classification/main/web.py)
+
+
 # Dataset
 This model is developed with the help of dataset from Kaggle.
 Click [here](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset) to go to the Kaggle Dataset. 
