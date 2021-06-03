@@ -9,6 +9,7 @@
 ![GitHub License](https://img.shields.io/github/license/jith4j/Tuberculosis-Classification)
 ![GitHub number of Languages](https://img.shields.io/github/languages/count/jith4j/Tuberculosis-Classification)
 ![GitHub top Language](https://img.shields.io/github/languages/top/jith4j/Tuberculosis-Classification?color=orange)
+[![Open In Colab: ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jith4j/Tuberculosis-Classification/blob/main/Tuber_Classification.ipynb)
 
 
 A CNN model that can classify X-Ray images as a <b>Tuberculosis case or a Normal case</b>.
